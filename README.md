@@ -1,2 +1,2 @@
 # pagina-bootstrap
-Projeto de criaçãod e página com bootstrap
+Projeto de criação de página com bootstrap
